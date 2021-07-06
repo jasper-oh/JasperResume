@@ -19,7 +19,7 @@ export const ProjectData = [
     github: "https://github.com/jasper-oh/JSP_WebProject",
     pdf: "www.example.com",
     image:
-      "https://i.pinimg.com/originals/8e/6d/fe/8e6dfec5dd47bedf06ca7f74c77e4b14.png",
+      "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbDbpHF%2Fbtq81fgOTwt%2FavVqBMwOqRNgjSmUoCK11k%2Fimg.png",
   },
 
   {
@@ -41,7 +41,7 @@ export const ProjectData = [
     github: "https://github.com/jasper-oh/Spring_WebProject",
     pdf: "www.example.com",
     image:
-      "https://cdn.dribbble.com/users/2657627/screenshots/13959270/media/b1a8b2b53760dc5c10e6cddc1409a3a1.png?compress=1&resize=400x300",
+      "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbDbpHF%2Fbtq81fgOTwt%2FavVqBMwOqRNgjSmUoCK11k%2Fimg.png",
   },
   {
     id: 3,
@@ -54,6 +54,6 @@ export const ProjectData = [
     github: "www.example.com",
     pdf: "www.example.com",
     image:
-      "https://cdn.dribbble.com/users/2657627/screenshots/13959270/media/b1a8b2b53760dc5c10e6cddc1409a3a1.png?compress=1&resize=400x300",
+      "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbDbpHF%2Fbtq81fgOTwt%2FavVqBMwOqRNgjSmUoCK11k%2Fimg.png",
   },
 ];
