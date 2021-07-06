@@ -71,14 +71,6 @@ export const SkillsData = [
         name: "Spring MVC + myBatis",
         icon: <i class="devicon-spring-plain colored"></i>,
       },
-      {
-        name: "NodeJS",
-        icon: <i class="devicon-nodejs-plain colored"></i>,
-      },
-      {
-        name: "Django",
-        icon: <i class="devicon-django-plain colored"></i>,
-      },
     ],
   },
   {
@@ -87,6 +79,19 @@ export const SkillsData = [
       {
         name: "Final Cut Pro",
         icon: <i class="fi-rr-film"></i>,
+      },
+    ],
+  },
+  {
+    type: "I'm interesting in ...",
+    list: [
+      {
+        name: "NodeJS",
+        icon: <i class="devicon-nodejs-plain colored"></i>,
+      },
+      {
+        name: "Django",
+        icon: <i class="devicon-django-plain colored"></i>,
       },
     ],
   },
