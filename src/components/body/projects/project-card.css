@@ -89,6 +89,7 @@
   }
   .project-card {
     flex-direction: column-reverse;
+    width: 100%;
   }
   .project-info {
     margin-left: 0px;
