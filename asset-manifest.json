@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/JasperResume/static/css/main.60d57167.chunk.css",
-    "main.js": "/JasperResume/static/js/main.90d56628.chunk.js",
-    "main.js.map": "/JasperResume/static/js/main.90d56628.chunk.js.map",
+    "main.css": "/JasperResume/static/css/main.e8a06f37.chunk.css",
+    "main.js": "/JasperResume/static/js/main.05a6577d.chunk.js",
+    "main.js.map": "/JasperResume/static/js/main.05a6577d.chunk.js.map",
     "runtime-main.js": "/JasperResume/static/js/runtime-main.920b9f66.js",
     "runtime-main.js.map": "/JasperResume/static/js/runtime-main.920b9f66.js.map",
     "static/js/2.65e57da9.chunk.js": "/JasperResume/static/js/2.65e57da9.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.5ad93791.chunk.js": "/JasperResume/static/js/3.5ad93791.chunk.js",
     "static/js/3.5ad93791.chunk.js.map": "/JasperResume/static/js/3.5ad93791.chunk.js.map",
     "index.html": "/JasperResume/index.html",
-    "static/css/main.60d57167.chunk.css.map": "/JasperResume/static/css/main.60d57167.chunk.css.map",
+    "static/css/main.e8a06f37.chunk.css.map": "/JasperResume/static/css/main.e8a06f37.chunk.css.map",
     "static/js/2.65e57da9.chunk.js.LICENSE.txt": "/JasperResume/static/js/2.65e57da9.chunk.js.LICENSE.txt",
     "static/media/coding4.png": "/JasperResume/static/media/coding4.7784e949.png",
     "static/media/logo.6ce24c58.svg": "/JasperResume/static/media/logo.6ce24c58.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.920b9f66.js",
     "static/js/2.65e57da9.chunk.js",
-    "static/css/main.60d57167.chunk.css",
-    "static/js/main.90d56628.chunk.js"
+    "static/css/main.e8a06f37.chunk.css",
+    "static/js/main.05a6577d.chunk.js"
   ]
 }
