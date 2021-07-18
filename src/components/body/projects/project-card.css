@@ -84,7 +84,7 @@
   transition: all 300ms ease-in;
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 720px) {
   .project-photo {
     width: 70%;
   }

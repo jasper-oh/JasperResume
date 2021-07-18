@@ -35,7 +35,7 @@ export const ProjectData = [
     type: "web",
     about1: "JSP 를 이용하여 Tomcat Server 와 MYSQL 을 DB 로 구축.",
     about2:
-      "멘토와 멘티를 연결해주는 프로그램입니다. 각자의 시간을 올려 예약을 하는 프로그램 입니다.",
+      "멘토와 멘티를 연결해주며 각자의 시간을 올려 예약을 하는 프로그램 입니다.",
     tags: [
       "Java",
       "JSP",
@@ -81,7 +81,8 @@ export const ProjectData = [
     type: "web",
     about1:
       "AWS의 Bucket을 이용해 website에 파일을 드래그 앤 드랍 하여 저장되는 웹 어플리케이션 제작",
-    about2: "Spring MVC 와 MyBatis를 이용하여 version up 하였습니다.",
+    about2:
+      "ReactJS 의 react-dropzone 을 사용해서 aws 의 bucket 에 저장되게끔 제작 하였습니다.",
     tags: ["Java", "SpringBoot", "ReactJS", "AWS Bucket"],
     demo: "https://youtu.be/FgP5ECeg-uc",
     github:
