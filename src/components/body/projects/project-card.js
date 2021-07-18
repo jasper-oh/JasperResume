@@ -27,7 +27,7 @@ function ProjectCard({ project }) {
           {project.pdf && (
             <a className="project-link" href={project.pdf}>
               <div className="link-button">
-                <i class="fi-rr-document"></i> PDF
+                <i class="fi-rr-document"></i> Notion
               </div>
             </a>
           )}

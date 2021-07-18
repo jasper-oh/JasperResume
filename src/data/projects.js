@@ -11,7 +11,7 @@ export const ProjectData = [
     tags: ["Python", "Flask", "HTML", "CSS", "BeautifulSoup"],
     demo: "www.something.com",
     github: "https://github.com/jasper-oh/Job-Search",
-    pdf: "www.something.com",
+    pdf: "https://bright-kangaroo-176.notion.site/Job-Search-Crawling-with-FLASK-bddb5001e4d34c61a418a78a6b8c4e6a",
     image:
       "https://blog.kakaocdn.net/dn/crpuNF/btq9Wpif4gp/b0P1gZJS1VzwkkAZXJ1HDK/img.png",
   },
@@ -25,7 +25,7 @@ export const ProjectData = [
     tags: ["Python", "Django", "ReactJS", "Spotify API"],
     demo: "www.something.com",
     github: "https://github.com/jasper-oh/House-PartyWithSpotify",
-    pdf: "www.something.com",
+    pdf: "https://bright-kangaroo-176.notion.site/House-Party-Music-Controller-with-DJANGO-35bd178275e349f79f1f6b297428d322",
     image:
       "https://blog.kakaocdn.net/dn/E4d2e/btq9RdXpXpo/ES2cW047KCAEn6gwWY2o7k/img.png",
   },
@@ -48,7 +48,7 @@ export const ProjectData = [
     ],
     demo: "https://youtu.be/FgP5ECeg-uc",
     github: "https://github.com/jasper-oh/JSP_WebProject",
-    pdf: "www.something.com",
+    pdf: "https://bright-kangaroo-176.notion.site/Connect-Mentor-Mentee-with-JSP-87ce53cb191b4ee39a356950c29f0ce6",
     image:
       "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcha4ih%2Fbtq9Rcqb5Wn%2FjoEICzGVI7G5nNzkZGdauK%2Fimg.png",
   },
@@ -71,7 +71,7 @@ export const ProjectData = [
     ],
     demo: "https://youtu.be/FgP5ECeg-uc",
     github: "https://github.com/jasper-oh/Spring_WebProject",
-    pdf: "www.example.com",
+    pdf: "https://bright-kangaroo-176.notion.site/Connect-Mentor-Mentee-with-SPRING-4cecb1f219a14933adf8bfd9a4b7e0d2",
     image:
       "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcha4ih%2Fbtq9Rcqb5Wn%2FjoEICzGVI7G5nNzkZGdauK%2Fimg.png",
   },
@@ -86,7 +86,7 @@ export const ProjectData = [
     demo: "https://youtu.be/FgP5ECeg-uc",
     github:
       "https://github.com/Web-Buddies/Jasper-Web-WorkSpace/tree/master/reactjs-springboot-project",
-    pdf: "www.example.com",
+    pdf: "https://bright-kangaroo-176.notion.site/File-Upload-to-AWS-Bucket-with-SPRINGBOOT-b937c5a5e31944a1846dc83911539bfc",
     image:
       "https://blog.kakaocdn.net/dn/31U9V/btq9O74tusB/0wtTES8S5LGnEUR38UARlk/img.png",
   },
@@ -110,7 +110,7 @@ export const ProjectData = [
   // Desktop
   {
     id: 5,
-    title: "Team Organization with poll with SWING",
+    title: "Team Organization in poll with SWING",
     type: "desktop",
     about1:
       "자바 GUI 프로그램인 SWING 으로 구성, MYSQL 을 이용해 데이터를 관리합니다.",
@@ -119,8 +119,22 @@ export const ProjectData = [
     tags: ["Java", "Swing GUI", , "MySQL"],
     demo: "https://www.youtube.com/watch?v=i98z4A_44f4",
     github: "https://github.com/jasper-oh/ProjectSwing",
-    pdf: "www.example.com",
+    pdf: "https://bright-kangaroo-176.notion.site/Team-Organization-in-poll-with-SWING-974c3378065646f485e0ba4fb1a4a0c6",
     image:
       "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbDbpHF%2Fbtq81fgOTwt%2FavVqBMwOqRNgjSmUoCK11k%2Fimg.png",
+  },
+  {
+    id: 5,
+    title: "Merging Images with Tkinter GUI",
+    type: "desktop",
+    about1:
+      "파이썬 기본기를 익히며, 마침 사진을 합치는 프로그램이 필요해 개발 했습니다.",
+    about2: "Tkinter 를 이용하여 기본적인 GUI 를 구성하였습니다.",
+    tags: ["Python", "tkinter GUI"],
+    demo: "www.something.com",
+    github: "https://github.com/jasper-oh/ProjectSwing",
+    pdf: "https://bright-kangaroo-176.notion.site/Merging-Images-with-Tkinter-GUI-c8e8a02c2728467c8dc03d56417d5b7a",
+    image:
+      "https://blog.kakaocdn.net/dn/bRnKs7/btq9OxPTvn1/HilrjkHfPcwAk4rC9Iw2H0/img.png",
   },
 ];
