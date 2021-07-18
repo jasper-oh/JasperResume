@@ -18,6 +18,10 @@ export const SkillsData = [
         name: "Kotlin",
         icon: <i class="devicon-kotlin-plain colored"></i>,
       },
+      {
+        name: "Swift",
+        icon: <i class="devicon-swift-plain colored"></i>,
+      },
     ],
   },
   {
@@ -42,12 +46,22 @@ export const SkillsData = [
         icon: <i class="devicon-intellij-plain colored"></i>,
       },
       {
+        name: "Atom",
+        icon: <i class="devicon-atom-plain colored"></i>,
+      },
+      {
         name: "AndroidStudio",
         icon: <i class="devicon-android-plain colored"></i>,
       },
       {
-        name: "Atom",
-        icon: <i class="devicon-atom-plain colored"></i>,
+        name: "XCode",
+        icon: (
+          <img
+            src="https://img.icons8.com/color/48/000000/xcode.png"
+            width="20px"
+            height="20px"
+          />
+        ),
       },
     ],
   },

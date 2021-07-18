@@ -5,7 +5,9 @@ function ProjectCard({ project }) {
     <div className="project-card" data-type={project.type}>
       <div className="project-info">
         <label className="project-title">{project.title}</label>
-        <p>{project.about}</p>
+        <p>{project.about1}</p>
+        <p>{project.about2}</p>
+        <p>{project.about3}</p>
         <div className="project-links">
           {project.demo && (
             <a className="project-link" href={project.demo}>
