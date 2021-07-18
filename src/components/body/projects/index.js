@@ -21,6 +21,9 @@ function Projects() {
         <button className="category__btn" data-filter="mobile">
           Mobile <span className="category__count">2</span>
         </button>
+        <button className="category__btn" data-filter="desktop">
+          Desktop <span className="category__count">2</span>
+        </button>
       </div>
       {/* end */}
       <div className="work__projects">

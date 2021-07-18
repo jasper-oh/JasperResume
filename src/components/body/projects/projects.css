@@ -14,7 +14,7 @@
 .work__categories {
   margin: 40px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .category__btn {
@@ -23,7 +23,7 @@
   font-size: 18px;
   padding: 8px 48px;
   position: relative;
-  margin: 10px;
+  margin: 20px;
 }
 
 .category__btn.selected,
