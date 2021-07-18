@@ -102,7 +102,7 @@ export const ProjectData = [
     tags: ["AndroidStudio", "Java", "JSP", "Tomcat"],
     demo: "https://youtu.be/WActljDsBB8",
     github: "https://github.com/jasper-oh/AndroidTeamProject",
-    pdf: "www.example.com",
+    pdf: "https://www.notion.so/Hair-Diary-with-Reservation-with-AOS-0efd6f2808f14dbca10759d7ab8b80fa",
     image:
       "https://blog.kakaocdn.net/dn/DJ5GK/btq9OHjWqA6/RRmsbWgkwJk5u3lTmrm7Vk/img.png",
   },

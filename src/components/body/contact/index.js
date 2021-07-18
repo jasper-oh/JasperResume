@@ -13,13 +13,13 @@ function Contact() {
           <SocialContact />
         </div>
         <div className="download">
-          <a download href={require("../../../assets/resume.pdf").default}>
+          <a download href={require("../../../assets/resumeKr.pdf").default}>
             <i class="fi-rr-cloud-download download-icon" />
             <span> Resume - kr</span>
           </a>
         </div>
         <div className="download">
-          <a download href={require("../../../assets/resume.pdf").default}>
+          <a download href={require("../../../assets/resumeEn.pdf").default}>
             <i class="fi-rr-cloud-download download-icon" />
             <span> Resume - en</span>
           </a>
