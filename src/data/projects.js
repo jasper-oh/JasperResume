@@ -5,7 +5,7 @@ export const ProjectData = [
     id: 1,
     title: "Job Search Crawling with FLASK",
     type: "web",
-    about1: "Flask를 이용해 간단한 웹 서비스를 만들었습니다.",
+    about1: "Flask를 이용해 간단한 웹 서비스를 구현.",
     about2:
       "BeatifulSoup을 이용해 각종 채용 사이트에서 정보를 scrapping 하여 유저에게 보여주는 형식으로 구현.",
     tags: ["Python", "Flask", "HTML", "CSS", "BeautifulSoup"],
@@ -19,7 +19,7 @@ export const ProjectData = [
     id: 1,
     title: "House Party Music Controller with Django",
     type: "web",
-    about1: "Django 와 React 를 이용하였습니다.",
+    about1: "Django 와 React 를 이용.",
     about2:
       "Spotify API 를 이용하여, 유저들의 투표후 다음 노래로 이동 할 수 있는 웹 어플리케이션을 구현.",
     tags: ["Python", "Django", "ReactJS", "Spotify API"],
@@ -97,8 +97,8 @@ export const ProjectData = [
     title: "Hair Diary with Reservation with AOS",
     type: "mobile",
     about1:
-      "안드로이드 어플로 만든 자신의 헤어 스타일 기록 및 미용실 예약 프로그램입니다.",
-    about2: "JSP 를 이용해 Tomcat 서버와 연동하여 MYSQL로 데이터를 관리합니다",
+      "안드로이드 어플로 만든 자신의 헤어 스타일 기록 및 미용실 예약 프로그램.",
+    about2: "JSP 를 이용해 Tomcat 서버와 연동하여 MYSQL로 데이터를 관리.",
     tags: ["AndroidStudio", "Java", "JSP", "Tomcat"],
     demo: "https://youtu.be/WActljDsBB8",
     github: "https://github.com/jasper-oh/AndroidTeamProject",
@@ -129,7 +129,7 @@ export const ProjectData = [
     type: "desktop",
     about1:
       "파이썬 기본기를 익히며, 마침 사진을 합치는 프로그램이 필요해 개발.",
-    about2: "Tkinter 를 이용하여 기본적인 GUI 를 구성하였습니다.",
+    about2: "Tkinter 를 이용하여 기본적인 GUI 를 구성.",
     tags: ["Python", "tkinter GUI"],
     demo: "www.something.com",
     github: "https://github.com/jasper-oh/ProjectSwing",
