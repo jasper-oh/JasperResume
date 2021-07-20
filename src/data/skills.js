@@ -11,14 +11,6 @@ export const SkillsData = [
         icon: <i class="devicon-python-plain colored"></i>,
       },
       {
-        name: "JavaScript",
-        icon: <i class="devicon-javascript-plain colored"></i>,
-      },
-      {
-        name: "Kotlin",
-        icon: <i class="devicon-kotlin-plain colored"></i>,
-      },
-      {
         name: "Swift",
         icon: <i class="devicon-swift-plain colored"></i>,
       },
@@ -65,20 +57,12 @@ export const SkillsData = [
       },
     ],
   },
-  {
-    type: "Frontend",
-    list: [
-      {
-        name: "ReactJS",
-        icon: <i class="devicon-react-original colored"></i>,
-      },
-    ],
-  },
+
   {
     type: "Backend",
     list: [
       {
-        name: "Spring Boot",
+        name: "SpringBoot",
         icon: <i class="devicon-spring-plain colored"></i>,
       },
       {
@@ -99,6 +83,14 @@ export const SkillsData = [
   {
     type: "I'm interesting in ...",
     list: [
+      {
+        name: "JavaScript",
+        icon: <i class="devicon-javascript-plain colored"></i>,
+      },
+      {
+        name: "ReactJS",
+        icon: <i class="devicon-react-original colored"></i>,
+      },
       {
         name: "NodeJS",
         icon: <i class="devicon-nodejs-plain colored"></i>,
