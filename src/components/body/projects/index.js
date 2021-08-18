@@ -13,10 +13,10 @@ function Projects() {
       {/* start */}
       <div className="work__categories">
         <button className="category__btn selected" data-filter="*">
-          All <span className="category__count">8</span>
+          All <span className="category__count">9</span>
         </button>
         <button className="category__btn" data-filter="web">
-          Web <span className="category__count">3</span>
+          Web <span className="category__count">5</span>
         </button>
         <button className="category__btn" data-filter="mobile">
           Mobile <span className="category__count">2</span>
