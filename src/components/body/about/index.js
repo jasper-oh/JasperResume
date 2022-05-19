@@ -9,8 +9,8 @@ function About() {
           {/* 배치수정 ====%%%% */}
           Hello 👋, I am a developer <br />
           <span className="info-name">Jasper</span>
-          <br /> 분야를 가리지 않고, 스펀지 같은 흡수력으로 <br />
-          끊임없이 성장중입니다 !
+          <br /> constantly growing with <br />
+          absorbing every field.
         </div>
         <div className="about-photo">
           <img
