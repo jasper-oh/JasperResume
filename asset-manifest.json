@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/JasperResume/static/css/main.ba947af7.chunk.css",
-    "main.js": "/JasperResume/static/js/main.0d7d84f1.chunk.js",
-    "main.js.map": "/JasperResume/static/js/main.0d7d84f1.chunk.js.map",
+    "main.js": "/JasperResume/static/js/main.d82238e1.chunk.js",
+    "main.js.map": "/JasperResume/static/js/main.d82238e1.chunk.js.map",
     "runtime-main.js": "/JasperResume/static/js/runtime-main.396fa849.js",
     "runtime-main.js.map": "/JasperResume/static/js/runtime-main.396fa849.js.map",
     "static/js/2.06eb6dfa.chunk.js": "/JasperResume/static/js/2.06eb6dfa.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.396fa849.js",
     "static/js/2.06eb6dfa.chunk.js",
     "static/css/main.ba947af7.chunk.css",
-    "static/js/main.0d7d84f1.chunk.js"
+    "static/js/main.d82238e1.chunk.js"
   ]
 }
