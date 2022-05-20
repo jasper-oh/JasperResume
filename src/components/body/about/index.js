@@ -10,7 +10,7 @@ function About() {
           Hello 👋, I am a developer <br />
           <span className="info-name">Jasper</span>
           <br /> constantly growing with <br />
-          absorbing every field.
+          absorbing every kind of field.
         </div>
         <div className="about-photo">
           <img
