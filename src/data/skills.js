@@ -99,6 +99,10 @@ export const SkillsData = [
         name: "Django",
         icon: <i class="devicon-django-plain colored"></i>,
       },
+      {
+        name: "NextJS",
+        icon: <i class="devicon-nextjs-plain"></i>
+      }
     ],
   },
 ];
