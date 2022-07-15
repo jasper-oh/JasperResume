@@ -61,9 +61,17 @@ export const SkillsData = [
       },
     ],
   },
-
   {
-    type: "Backend",
+    type: "Front-end",
+    list: [
+      {
+        name: "ReactJS",
+        icon: <i class="devicon-react-original colored"></i>,
+      },
+    ]
+  },
+  {
+    type: "Back-end",
     list: [
       {
         name: "SpringBoot",
@@ -87,10 +95,6 @@ export const SkillsData = [
   {
     type: "I'm interesting in ...",
     list: [
-      {
-        name: "ReactJS",
-        icon: <i class="devicon-react-original colored"></i>,
-      },
       {
         name: "NodeJS",
         icon: <i class="devicon-nodejs-plain colored"></i>,
