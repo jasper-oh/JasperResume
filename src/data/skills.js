@@ -14,6 +14,10 @@ export const SkillsData = [
         name: "Swift",
         icon: <i class="devicon-swift-plain colored"></i>,
       },
+      {
+        name: "JavaScript",
+        icon: <i class="devicon-javascript-plain colored"></i>,
+      },
     ],
   },
   {
@@ -83,10 +87,6 @@ export const SkillsData = [
   {
     type: "I'm interesting in ...",
     list: [
-      {
-        name: "JavaScript",
-        icon: <i class="devicon-javascript-plain colored"></i>,
-      },
       {
         name: "ReactJS",
         icon: <i class="devicon-react-original colored"></i>,
