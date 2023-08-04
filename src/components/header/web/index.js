@@ -4,6 +4,11 @@ function Web() {
   return (
     <div className="web">
       <div className="web-option">
+        <a href="#valuation">
+          <i class="fi-rr-chart-line-up option-icon"></i>Valuation
+        </a>
+      </div>
+      <div className="web-option">
         <a href="#skills">
           <i class="fi-rr-laptop option-icon"></i>Skills
         </a>

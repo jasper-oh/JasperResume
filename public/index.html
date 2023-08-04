@@ -42,7 +42,7 @@
     />
     <title>Jasper Oh</title>
   </head>
-  <body onload="showImage()">
+  <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
   </body>
@@ -54,9 +54,7 @@ document
         ? event.target
         : event.target.parentNode;
       const type = button.dataset.filter;
-      if (!type) return;
-
-      console.log("type1:", type);
+      if (!type) return;      
 
       // update selected button
       const selected = document.querySelector(".category__btn.selected");
@@ -77,23 +75,6 @@ document
         }
         projects.classList.remove("anim-out");
       }, 400);
-    });
-    // 이미지 변환
-    // var imgArray=new Array(); 
-
-    // imgArray[0]="coding3.png"; 
-    // imgArray[1]="coding.png";
-
-    //  function showImage(){ 
-
-    //     var imgNum=Math.round(Math.random()*1);
-    //     var objImg=document.getElementById("picturething"); 
-    //     objImg.src=imgArray[imgNum]; 
-    //     console.log(imgArray[imgNum]);
-    //     setTimeout(showImage,3000); 
-
-    //   }
-
-    // 이미지 변환 end
+    });    
   </script>
 </html>

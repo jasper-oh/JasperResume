@@ -12,6 +12,7 @@ export const SocialData = [
   {
     platform: "Linkedin",
     icon: require("../assets/icons/linkedin.png").default,
-    link: "https://www.linkedin.com/in/young-joon-jasper-oh-595586124/",
+    link: "https://www.linkedin.com/in/jasper-oh-595586124",
   },
 ];
+
