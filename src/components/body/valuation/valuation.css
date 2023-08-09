@@ -2,3 +2,11 @@
   margin-top: 15px;
   margin-bottom: 100px;
 }
+
+.valuation-desc-box{
+  background-color: #ffcd00;
+  padding : 5px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 5px gray;
+}
+
