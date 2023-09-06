@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/JasperResume/static/css/main.ba947af7.chunk.css",
-    "main.js": "/JasperResume/static/js/main.e97f2f8d.chunk.js",
-    "main.js.map": "/JasperResume/static/js/main.e97f2f8d.chunk.js.map",
-    "runtime-main.js": "/JasperResume/static/js/runtime-main.396fa849.js",
-    "runtime-main.js.map": "/JasperResume/static/js/runtime-main.396fa849.js.map",
-    "static/js/2.06eb6dfa.chunk.js": "/JasperResume/static/js/2.06eb6dfa.chunk.js",
-    "static/js/2.06eb6dfa.chunk.js.map": "/JasperResume/static/js/2.06eb6dfa.chunk.js.map",
-    "static/js/3.8f0ef06b.chunk.js": "/JasperResume/static/js/3.8f0ef06b.chunk.js",
-    "static/js/3.8f0ef06b.chunk.js.map": "/JasperResume/static/js/3.8f0ef06b.chunk.js.map",
+    "main.css": "/JasperResume/static/css/main.c19b02d2.chunk.css",
+    "main.js": "/JasperResume/static/js/main.aea5e1f8.chunk.js",
+    "main.js.map": "/JasperResume/static/js/main.aea5e1f8.chunk.js.map",
+    "runtime-main.js": "/JasperResume/static/js/runtime-main.dccf22e1.js",
+    "runtime-main.js.map": "/JasperResume/static/js/runtime-main.dccf22e1.js.map",
+    "static/js/2.4eb579b6.chunk.js": "/JasperResume/static/js/2.4eb579b6.chunk.js",
+    "static/js/2.4eb579b6.chunk.js.map": "/JasperResume/static/js/2.4eb579b6.chunk.js.map",
+    "static/js/3.b284ab44.chunk.js": "/JasperResume/static/js/3.b284ab44.chunk.js",
+    "static/js/3.b284ab44.chunk.js.map": "/JasperResume/static/js/3.b284ab44.chunk.js.map",
     "index.html": "/JasperResume/index.html",
-    "static/css/main.ba947af7.chunk.css.map": "/JasperResume/static/css/main.ba947af7.chunk.css.map",
-    "static/js/2.06eb6dfa.chunk.js.LICENSE.txt": "/JasperResume/static/js/2.06eb6dfa.chunk.js.LICENSE.txt",
-    "static/media/coding4.png": "/JasperResume/static/media/coding4.7784e949.png",
+    "static/css/main.c19b02d2.chunk.css.map": "/JasperResume/static/css/main.c19b02d2.chunk.css.map",
+    "static/js/2.4eb579b6.chunk.js.LICENSE.txt": "/JasperResume/static/js/2.4eb579b6.chunk.js.LICENSE.txt",
+    "static/media/coding5.jpg": "/JasperResume/static/media/coding5.c6796215.jpg",
     "static/media/logo.6ce24c58.svg": "/JasperResume/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.396fa849.js",
-    "static/js/2.06eb6dfa.chunk.js",
-    "static/css/main.ba947af7.chunk.css",
-    "static/js/main.e97f2f8d.chunk.js"
+    "static/js/runtime-main.dccf22e1.js",
+    "static/js/2.4eb579b6.chunk.js",
+    "static/css/main.c19b02d2.chunk.css",
+    "static/js/main.aea5e1f8.chunk.js"
   ]
 }
