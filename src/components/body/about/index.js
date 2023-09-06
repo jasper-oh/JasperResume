@@ -14,7 +14,7 @@ function About() {
         </div>
         <div className="about-photo">
           <img
-            src={require("../../../assets/image/coding4.png").default}
+            src={require("../../../assets/image/coding5.jpg").default}
             className="picture"
             id="picturething"
           />
