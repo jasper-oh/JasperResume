@@ -7,6 +7,10 @@ export const SkillsData = [
         icon: <i class="devicon-java-plain colored"></i>,
       },
       {
+        name: "TypeScript",
+        icon: <i class="devicon-typescript-plain colored"></i>,
+      },
+      {
         name: "Python",
         icon: <i class="devicon-python-plain colored"></i>,
       },
@@ -24,26 +28,12 @@ export const SkillsData = [
     type: "Tools",
     list: [
       {
-        name: "VSCode",
-        icon: <i class="devicon-vscode-plain colored"></i>,
-      },
-      {
-        name: "Eclipse",
-        icon: (
-          <img
-            src="https://img.icons8.com/ios-filled/50/000000/java-eclipse.png"
-            width="20px"
-            height="20px"
-          />
-        ),
-      },
-      {
         name: "IntelliJ",
         icon: <i class="devicon-intellij-plain colored"></i>,
       },
       {
-        name: "Atom",
-        icon: <i class="devicon-atom-plain colored"></i>,
+        name: "VSCode",
+        icon: <i class="devicon-vscode-plain colored"></i>,
       },
       {
         name: "AndroidStudio",
@@ -68,6 +58,10 @@ export const SkillsData = [
         name: "ReactJS",
         icon: <i class="devicon-react-original colored"></i>,
       },
+      {
+        name: "React Native",
+        icon: <i class="devicon-react-original colored"></i>,
+      }
     ]
   },
   {

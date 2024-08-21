@@ -1,6 +1,7 @@
 import React from "react";
 import SocialContact from "../../common/social-contact";
 import "./about.css";
+import codingImage from "../../../assets/image/coding5.jpg";
 function About() {
   return (
     <div className="about">
@@ -9,12 +10,13 @@ function About() {
           {/* 배치수정 ====%%%% */}
           Hello 👋, I am a developer <br />
           <span className="info-name">Jasper</span>
-          <br /> constantly growing with <br />
-          absorbing every kind of fields.
+          <br /> constantly growing and <br />
+          exploring new fields.
         </div>
         <div className="about-photo">
           <img
-            src={require("../../../assets/image/coding5.jpg").default}
+            src={codingImage}
+            alt="coding"
             className="picture"
             id="picturething"
           />

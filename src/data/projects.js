@@ -80,8 +80,8 @@ export const ProjectData = [
     title: "File Upload to AWS-Bucket with SPRINGBOOT",
     type: "web",
     about1:
-      "Making web-application by Using AWS-Bucket for saving a file in website",
-    about2: "Using react-dropzone in ReactJS and saving in AWS-bucket",
+      "Making web-app by Using AWS-Bucket for saving a file",
+    about2: "Using react-dropzone in ReactJS and saving in AWS-bucket & AWS S3.",
     tags: ["Java", "SpringBoot", "ReactJS", "AWS Bucket"],
     demo: "https://youtu.be/FgP5ECeg-uc",
     github:
@@ -97,7 +97,7 @@ export const ProjectData = [
     title: "Hair Diary with Reservation with AOS",
     type: "mobile",
     about1:
-      "Making an Android Application which archieve users hairstyle and reservate hair salon",
+      "Android app for hairstyles and salon bookings",
     about2:
       "Using JSP and Connecting with Tomcat server and data management with MYSQL",
     tags: ["AndroidStudio", "Java", "JSP", "Tomcat"],
@@ -127,7 +127,7 @@ export const ProjectData = [
     title: "Team Organization in poll with SWING",
     type: "desktop",
     about1: "Use Swing - Java GUI program and manage data with MYSQL",
-    about2: "Team organization & managing program",
+    about2: "Team organization / managing program. Learn & Use the Object-Oriented programming",
     tags: ["Java", "Swing GUI", , "MySQL"],
     demo: "https://www.youtube.com/watch?v=i98z4A_44f4",
     github: "https://github.com/jasper-oh/ProjectSwing",
@@ -140,8 +140,8 @@ export const ProjectData = [
     title: "Merging Images with Tkinter GUI",
     type: "desktop",
     about1:
-      "Learning the basic python by making program which merge two pictures",
-    about2: "Using Tkinter - Python GUI program",
+      "Use Python basics by creating a program to merge two pictures",
+    about2: "Using Tkinter - Python GUI program. Learn & Use the Object-Oriented programming",
     tags: ["Python", "tkinter GUI"],
     demo: "www.something.com",
     github: "https://github.com/jasper-oh/ProjectSwing",
